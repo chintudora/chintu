@@ -11,4 +11,6 @@ Copy the repository URL from the github account and paste it then enter.
 Save it by pressing ctrl+s.
 Give commit message and commit it.
 Push to the message to the Website and check it in your github account.
+Rules: Always use small letters for naming the files.
+Image size should be in 800X600.
 
