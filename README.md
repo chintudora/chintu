@@ -13,6 +13,6 @@ Give commit message and commit it.
 Push to the message to the Website and check it in your github account.
 Rules: Always use small letters for naming the files.
 Image size should be in 800X600.
-![chintu] (image/fab1.jpg)
+![chintu](image/fab1.jpg)
 
 
