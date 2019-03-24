@@ -13,8 +13,14 @@ Give commit message and commit it.
 Push to the message to the Website and check it in your github account.
 Rules: Always use small letters for naming the files.
 Image size should be in 800X600.
-</Fab Lab Images of STPI, Bhubaneswar>
+<Fab Lab Images of STPI, Bhubaneswar>
 ![chintu](img/fab1.jpg)
+![chintu](img/fab2.jpg)
+![chintu](img/fab3.jpg)
+![chintu](img/fab4.jpg)
+![chintu](img/fab5.jpg)
+![chintu](img/fab6.jpg)
+
 
 
 
