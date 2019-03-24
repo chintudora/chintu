@@ -9,5 +9,3 @@ Then send command: -lpr -p gs24 -l test.camm
 Before sending the command to print the design in Vinyl Cutter make sure to set the origin the of the niddle.
 Take the Print out of the design and Paste Trans fat sticker on it.
 Then remove the trans fat sticker by paste the design where ever you want.
-Then they taught us about 3d printer operation and how it works. Explained operation of 3d printing and its components.
-PLA: Poly Lactic Acid is used to make the printing output.
