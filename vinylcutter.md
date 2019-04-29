@@ -1,4 +1,5 @@
 # Vinyl Cutter
+![fabzero](img/vinyl.jpg)
 Installed inkscape and Cura software in our laptop as instructed.
 Designed our name through inkscape software.
 Name size 150mmX50mm.
