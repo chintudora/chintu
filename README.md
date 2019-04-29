@@ -1,6 +1,7 @@
 # About me....
 I am A.Chintu Dora working in STPI,Bhubaneswar.
 I joined FAB Lab Training on 18th Mar 2019.
+# The Training.....
 First day they taught us about Github and we all opened a account on Github.
 On the second day they taught us about Git and Visual Studio Code software and we installed it in our Laptop.
 Open a account on github.com.
