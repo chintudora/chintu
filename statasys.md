@@ -1,10 +1,15 @@
 # STRATASYS 3D Printer
 # Stratasys Polyjet 3d Printer at our Fab Lab:-
+![fabzero](img/stratasys.jpg)
 # Working of PolyJet 3D Printers
 
 At the core of PolyJet printers are the jetting heads. The jetting heads deposit a single layer of the build material (typically photopolymers) by sliding to and fro along the X axis. The depth of each layer of photopolymer deposited by each jetting head is selectively controlled by software. Raster scanning the head across the build platform delivers the capability to produce precise models. There are many ways in which PolyJet printers work, but one of the most popular techniques is spraying a liquid photopolymer from a multi-nozzle, inkjet-style print head. As soon as the droplets of these liquid photopolymers are jetted, they are immediately cured and hardened by an UV light. Once a layer is complete, the build platform drops along the Z axis, and the next layer of photopolymers is ejected from the heads. The process is repeated till the object is complete.
 
 The raw material is stored in cartridges and is directly connected to the nozzles.
+![fabzero](img/stratasys2.jpg)
+![fabzero](img/stratasys3.jpg)
+![fabzero](img/stratasys4.jpg)
+![fabzero](img/stratasys5.jpg)
 
 # There are four important advantages of PolyJet 3D printers:
 

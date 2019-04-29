@@ -1,4 +1,5 @@
 # Shopbot CNC Milling Machine
+![fabzero](img/shopbot1.jpg)
 # SAFETY Precautions:
  Always wear safety glasses and closed-toe shoes Note: The Help program in Partworks is actually quite helpful. Feel free to use it to find out what any icon means and does.
 
