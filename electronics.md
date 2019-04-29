@@ -29,6 +29,7 @@ Click on the 'Page Settings' icon Sheet settings icon on the top toolbar. Set th
 We will now place our first component. Click on the 'Place symbol' icon Add component Icon in the right toolbar. You may also press the 'Add Symbol' hotkey [a].
 
 Click on the middle of your schematic sheet. A Choose Symbol window will appear on the screen. We’re going to place a resistor. Search / filter on the 'R' of Resistor. You may notice the 'Device' heading above the Resistor. This 'Device' heading is the name of the library where the component is located, which is quite a generic and useful library.
+
 ![fabzero](img/ki2.jpg)
 
 
