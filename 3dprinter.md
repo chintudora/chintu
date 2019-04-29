@@ -125,3 +125,7 @@ The printer might show a sign: clean case. Click ok and pull out the cleaning ca
 Slide the cartridge back into the machine.The printer will automatically ask if you want to load the filament and just pressing OK is all we have to do. 
 ![fabzero](img/3d.jpg)
 ![fabzero](img/3d2.jpg)
+# Using FREECAD SOFTWARE:
+
+Using freecad software, we can customize and make our 3D Model as per requirement.
+ 
