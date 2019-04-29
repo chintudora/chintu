@@ -16,7 +16,7 @@ In the picture below, you see a flowchart representing the KiCad workflow. The f
 In this section we are going to learn how to draw an electronic schematic using KiCad.
 Using Eeschema:-
 
-    Under Windows run kicad.exe. Under Linux type 'kicad' in your Terminal. You are now in the main window of the KiCad project manager. From here you have access to eight stand-alone software tools: Eeschema, Schematic Library Editor, Pcbnew, PCB Footprint Editor, GerbView, Bitmap2Component, PCB Calculator and Pl Editor. Refer to the work-flow chart to give you an idea how the main tools are used.
+Under Windows run kicad.exe. Under Linux type 'kicad' in your Terminal. You are now in the main window of the KiCad project manager. From here you have access to eight stand-alone software tools: Eeschema, Schematic Library Editor, Pcbnew, PCB Footprint Editor, GerbView, Bitmap2Component, PCB Calculator and Pl Editor. Refer to the work-flow chart to give you an idea how the main tools are used.
 ![fabzero](img/ki1.jpg)
 
 
@@ -29,9 +29,7 @@ Click on the 'Page Settings' icon Sheet settings icon on the top toolbar. Set th
 We will now place our first component. Click on the 'Place symbol' icon Add component Icon in the right toolbar. You may also press the 'Add Symbol' hotkey [a].
 
 Click on the middle of your schematic sheet. A Choose Symbol window will appear on the screen. We’re going to place a resistor. Search / filter on the 'R' of Resistor. You may notice the 'Device' heading above the Resistor. This 'Device' heading is the name of the library where the component is located, which is quite a generic and useful library.
-
 ![fabzero](img/ki2.jpg)
-
 
 Double click on it. This will close the 'Choose Symbol' window. Place the component in the schematic sheet by clicking where you want it to be.
 
@@ -183,7 +181,31 @@ Once your PCB is complete, you can generate Gerber files for each layer and send
     These are the layers you need to select for making a typical 2-layer PCB:
 
 
+# PCB Draw Diagram:
+    After the layout draw the border lines and export the layout to PNG file for both Cut and Trace file.
 
+    After exporting both the PNG files, convert the PNG file to Machine at fabmodules.org.
+    Keep the white part and black part will be removed.
+     At fabmodules.org, give the Data
+    Input image: PNG file
+    Output format: Roland Mill.
+    Process:-
+     PCB(1/64): For Trace file
+     PCB(1/32): For Cut File
+    Output:
+      machine: SRM20
+      x:0
+      Y:0
+      Z:0
+    Calculate and Save.
+    Generate the .rml file for both trace and Cut.
+    Then using the SRM20 make the PCB.
 ![fabzero](img/pcb.jpg)
-![fabzero](img/pro1.jpg)
+    Take the Electronic components as required by the schematic diagram.
+    Place the components on the PCB board and solder it as per the circuit.
+    Obtain your Circuit Board.
 ![fabzero](img/circuit.jpg)
+    Using the Programme code and Interface circuit card, check the circuit status and function.
+    
+
+![fabzero](img/pro1.jpg)
