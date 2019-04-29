@@ -1,5 +1,6 @@
 # 3D Printer
 Then they taught us about 3d printer operation and how it works. Explained operation of 3d printing and its components.
+![fabzero](img/3d1.jpg)
 # What is 3D-printing?
 3D printing is a process where a three-dimensional object is made by joining material in a computer controlled way. There are several techniques to join the material; melting plastic and laying it on top of each other (FDM or fused deposition modeling), fusing powder together or fusing liquid molecules together. 
 The 3DWOX printer makes objects by stacking different layers of molten plastic on top of each other.
@@ -122,4 +123,5 @@ The printer might show a sign: clean case. Click ok and pull out the cleaning ca
 •	Also remember to swap the chip out for the one that corresponds with the correct filament roll. You can now close the cartridge.
 # Loading filament
 Slide the cartridge back into the machine.The printer will automatically ask if you want to load the filament and just pressing OK is all we have to do. 
-
+![fabzero](img/3d.jpg)
+![fabzero](img/3d2.jpg)
